@@ -1,0 +1,24 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "algorithm learning for cracking the coding of interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxycbjhc/algorithm.git"
+  },
+  "keywords": [
+    "algorithm",
+    "javascript",
+    "node"
+  ],
+  "author": "snoy && wgy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jxycbjhc/algorithm/issues"
+  },
+  "homepage": "https://github.com/jxycbjhc/algorithm#readme"
+}
