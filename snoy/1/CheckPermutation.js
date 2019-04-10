@@ -10,7 +10,4 @@ function permutation(s1, s2) {
   return  Array.from(s1).sort().join('')===Array.from(s2).sort().join('');
 }
 
-module.exports = {
-  permutation: permutation
-};
-console.log(permutation('s1o20','s0o21'));
+module.exports = permutation;

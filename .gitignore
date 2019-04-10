@@ -1,0 +1,7 @@
+node_modules/
+.vscode/
+mochawesome-report/
+.idea/
+.DS_Store
+*.sw*
+*.un~
