@@ -1,7 +1,7 @@
 const assert = require("assert");
 const onEditAway =require("../../../snoy/1/oneAway");
 describe("snoy/1/oneAway.js", function() {
-  describe("oneAway", function() {
+  describe("onEditAway", function() {
     // * pale, ple => true
     // * pale, ale =>true
     // * pales, pale => true

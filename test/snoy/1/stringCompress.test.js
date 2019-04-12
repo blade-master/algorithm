@@ -1,7 +1,7 @@
 const assert = require("assert");
 const compress = require("../../../snoy/1/stringCompress");
 describe("snoy/1/stringCompress.js", function() {
-  describe("stringCompress", function() {
+  describe("compress", function() {
     // * aabcccccaaa  => a2b1c5a3
     // * abc => abc
     // * abbbccccc => a1b3c4
