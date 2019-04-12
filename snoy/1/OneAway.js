@@ -1,5 +1,4 @@
 "use strict";
-// 把字符串先转成数组，然后排序，最后合并成字符串进行比较
 
 /**
  * pale, ple => true
@@ -39,4 +38,3 @@ function onEditAway(s1, s2) {
 }
 
 module.exports = onEditAway;
-console.log(onEditAway("pales", "pale"));
